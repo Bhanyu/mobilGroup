@@ -102,12 +102,15 @@ input:disabled {
 @media (max-width: 768px) {
     .container {
         padding: 15px;
+     
     }
 
     table {
         display: block;
         overflow-x: auto;
         white-space: nowrap;
+  
+      
     }
 
     th, td {
